@@ -54,6 +54,11 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<!-- Dependências do PostGIS -->
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
